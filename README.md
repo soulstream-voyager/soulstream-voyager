@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Sofiia Husyak 🎶🎬✈️</h1>
 
 <p align="center">
-  Music is my soul's language, cinema is my escape, and traveling is my endless inspiration.  
+  Music is my soul's language, cinema is my escape, and traveling is my endless inspiration.<br> 
   📫 Contact: sofiiahusyak@gmail.com or @sofiia_hus on TG
 </p>
 
